@@ -159,8 +159,8 @@ a:hover{text-decoration: none; cursor:pointer;}
 -------------------------------------------------------------- */
 
 .btn-d,.btn-d:hover,.btn-d:focus{
-	color:#FFF;
-	background:rgba(0,0,0,.3);
+	color:#6d6d6d;
+	background:rgba(53, 54, 61, 0.3);
 }
 
 /* Prevent ugly blue glow on chrome and safari */
@@ -226,7 +226,7 @@ button{
 }
 .scroll-to-top-btn-icon{
 	fill: none;
-	stroke: #fff;
+	stroke: #b3ab3b;
 	stroke-width: 2px;
 	fill-rule: evenodd;
 	stroke-linecap:round;
@@ -281,7 +281,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .text-blue-gradient{
 	background-clip:text!important;
 	-webkit-background-clip:text!important;
-	background:linear-gradient(150deg, #0051C3 0%, #FF6633 100%);
+	background:linear-gradient(150deg, #2e9786 0%, #bcbe16 100%);
 	color:transparent!important;
 }
 .feature-col-mt{
