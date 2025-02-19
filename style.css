@@ -314,9 +314,12 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 
 .xmradr{
 	display: block;
-	colour: orange;
+	colour: gold;
 	font-weight: bold;
-	font-size: auto;
+	
+	
+  font-family:georgia,garamond,serif;font-size:12%;font-style:italic
+
 	}
 
 
